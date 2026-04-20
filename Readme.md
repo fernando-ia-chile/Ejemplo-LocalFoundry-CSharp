@@ -50,4 +50,8 @@ Referencia: [Azure AI Agents - Cloud Adoption Framework](https://learn.microsoft
 ```powershell
 # Instalar .NET SDK 9
 winget install Microsoft.DotNet.SDK.9
+
+# Versiones 8 - también son compatibles
+winget install Microsoft.DotNet.SDK.8
+
 ```
